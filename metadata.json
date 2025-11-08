@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini AI Content Generator",
+  "description": "A modern web application that leverages the Gemini API to generate both text and images based on user prompts, featuring a sleek, chat-inspired user interface.",
+  "requestFramePermissions": []
+}
